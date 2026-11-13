@@ -20,9 +20,10 @@ All public domain, CC0 or CC-BY:
 
 - Bible: World English Bible, Catholic Edition (eBible.org, public domain), 73 books
 - Confucianism: the Analects, the Great Learning, the Doctrine of the Mean and the Mencius, tr. James Legge (1861-1895), public domain, 29 works
+- Islam: the Quran, tr. Mohammed Marmaduke Pickthall (1930), public domain in the US, 114 suras; with hadith from the Mishkat al-Masabih, Lane-Poole's selection (1882) of Matthews' translation (1809), public domain
 
 The other religions are being added one at a time: the Tanakh with the Mishnah and Pirkei Avot, the
-Quran with hadith, the Book of Mormon, the Hindu, Buddhist, Jain, Sikh, Zoroastrian, Taoist and Shinto
+Book of Mormon, the Hindu, Buddhist, Jain, Sikh, Zoroastrian, Taoist and Shinto
 scriptures. Each work's source and licence are on its page.
 
 This repository holds the built site only.
