@@ -187,3 +187,5 @@ button.view.on { background: var(--band); border-color: var(--muted); }
 .atlas-axis circle { stroke: #fff; stroke-width: 2; } .atlas-axis circle.hit { fill: transparent; stroke: none; }
 .atlas-axis a:hover circle:not(.hit) { stroke: var(--ink); }
 table.atlas-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.atlas-tip.lines { white-space: pre-line; max-width: min(26rem, 90%); }
+.scroll { overflow-x: auto; max-width: 100%; } table.atlas-table td { overflow-wrap: anywhere; }
