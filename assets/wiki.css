@@ -146,6 +146,14 @@ details.tl-list summary { cursor: pointer; color: var(--link); }
 details.tl-list h4 { margin: 0.9rem 0 0.2rem; } details.tl-list .date { color: var(--muted); font-weight: normal; margin-left: 0.3rem; }
 ol.tl-events { margin: 0.2rem 0 0; padding-left: 1.4rem; } ol.tl-events li { margin: 0.15rem 0; }
 ol.tl-events .count { color: var(--muted); font-size: 0.85rem; } ol.tl-events .note { display: block; color: var(--muted); font-size: 0.85rem; }
+ol.tl-events .tl-quote { display: block; color: var(--muted); font-size: 0.85rem; font-style: italic; }
+.timeline-svg line.tick { stroke: var(--muted); stroke-width: 1; } .timeline-svg text.tick { font-size: 10.5px; fill: var(--muted); }
+h4.tl-part { margin: 1rem 0 0.4rem; font-family: system-ui, sans-serif; font-size: 0.92rem; font-weight: 600; color: var(--muted); }
+.tl-sources { margin: 0.5rem 0 0.2rem; font-family: system-ui, sans-serif; font-size: 0.85rem; color: var(--muted); }
+.tl-sources .label { font-weight: 600; } .tl-sources ul { display: inline; margin: 0; padding: 0; list-style: none; }
+.tl-sources li { display: inline; } .tl-sources li + li::before { content: " \00b7 "; }
+section.tl-method { margin-top: 1.4rem; padding-top: 0.6rem; border-top: 1px solid var(--rule); font-size: 0.92rem; }
+section.tl-method h3 { margin: 0 0 0.4rem; } section.tl-method p { margin: 0.35rem 0; }
 @media (max-width: 860px) {
   .wrap { flex-direction: column; padding: 1rem; } aside, .viewer aside.contents { flex: none; min-width: 0; }
   nav.top .inner > a:not(.brand) { display: none; } .search input { width: 11rem; }
