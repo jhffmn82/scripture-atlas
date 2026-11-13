@@ -5,9 +5,10 @@ The scriptures as a navigable knowledge graph, grounded in their own words:
 
 Each religion is one collection. The people, places, events and ideas of each work have pages; every
 fact links to the verbatim words it was read from, and every quotation opens the chapter it came from.
-Each collection has a timeline of its most often told events, in the order of its own story, and the
-atlas maps the key events of every collection on one world map and one time axis. The search runs in
-the browser over every fact, summary and passage, by keywords, by meaning or both.
+Each collection has a timeline of its most often told events, chosen by a stated rule and counted from
+the text; a date appears only where a cited reference page states it, quoted. The atlas maps every place
+in the graph whose coordinates an outside gazetteer gives, cited under the map. The search runs in the
+browser over every fact, summary and passage, by keywords, by meaning or both.
 
 A model read the texts, found the entities and facts and wrote the summaries (Claude Sonnet for the
 Bible; OpenAI's GPT-5.6 Luna and Terra for the rest); code located every quotation in the text before a
@@ -21,9 +22,12 @@ All public domain, CC0 or CC-BY:
 - Bible: World English Bible, Catholic Edition (eBible.org, public domain), 73 books
 - Confucianism: the Analects, the Great Learning, the Doctrine of the Mean and the Mencius, tr. James Legge (1861-1895), public domain, 29 works
 - Islam: the Quran, tr. Mohammed Marmaduke Pickthall (1930), public domain in the US, 114 suras; with hadith from the Mishkat al-Masabih, Lane-Poole's selection (1882) of Matthews' translation (1809), public domain
+- Taoism: the Tao Te Ching, tr. James Legge (1891); the Zhuangzi, tr. Herbert A. Giles (1889), public domain
+- Sikhism: the Japji, So Dar, Sohila, Asa ki Var, and hymns and sloks of Guru Nanak, tr. Max Arthur Macauliffe (1909), public domain
+- Zoroastrianism: the Yasna, Visparad, Vendidad, Yashts, Sirozahs, Nyayish and more, tr. James Darmesteter and L. H. Mills, Sacred Books of the East (1880-1887), public domain
 
 The other religions are being added one at a time: the Tanakh with the Mishnah and Pirkei Avot, the
-Book of Mormon, the Hindu, Buddhist, Jain, Sikh, Zoroastrian, Taoist and Shinto
-scriptures. Each work's source and licence are on its page.
+Book of Mormon, and the Hindu, Buddhist, Jain and Shinto scriptures. Each work's source and licence
+are on its page.
 
 This repository holds the built site only.
