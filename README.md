@@ -27,8 +27,9 @@ All public domain, CC0 or CC-BY:
 - Zoroastrianism: the Yasna, Visparad, Vendidad, Yashts, Sirozahs, Nyayish and more, tr. James Darmesteter and L. H. Mills, Sacred Books of the East (1880-1887), public domain
 - Shinto: the Kojiki, tr. Basil Hall Chamberlain (1882), public domain
 - Jainism: the Akaranga Sutra, the Sutrakritanga, the Uttaradhyayana Sutra and the Kalpa Sutra, tr. Hermann Jacobi, Sacred Books of the East vols. 22 (1884) and 45 (1895), public domain
+- Latter-day Saints: the Book of Mormon, 15 books, the church's standard text with Orson Pratt's 1879 chapters and verses (not the unversed 1830 first edition), from Project Gutenberg, public domain in the US
 
-The other religions are being added one at a time: the Tanakh with the Mishnah and Pirkei Avot, the
-Book of Mormon, and the Hindu and Buddhist scriptures. Each work's source and licence are on its page.
+The other religions are being added one at a time: the Tanakh with the Mishnah and Pirkei Avot, and
+the Hindu and Buddhist scriptures. Each work's source and licence are on its page.
 
 This repository holds the built site only.
