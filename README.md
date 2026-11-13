@@ -25,9 +25,10 @@ All public domain, CC0 or CC-BY:
 - Taoism: the Tao Te Ching, tr. James Legge (1891); the Zhuangzi, tr. Herbert A. Giles (1889), public domain
 - Sikhism: the Japji, So Dar, Sohila, Asa ki Var, and hymns and sloks of Guru Nanak, tr. Max Arthur Macauliffe (1909), public domain
 - Zoroastrianism: the Yasna, Visparad, Vendidad, Yashts, Sirozahs, Nyayish and more, tr. James Darmesteter and L. H. Mills, Sacred Books of the East (1880-1887), public domain
+- Shinto: the Kojiki, tr. Basil Hall Chamberlain (1882), public domain
+- Jainism: the Akaranga Sutra, the Sutrakritanga, the Uttaradhyayana Sutra and the Kalpa Sutra, tr. Hermann Jacobi, Sacred Books of the East vols. 22 (1884) and 45 (1895), public domain
 
 The other religions are being added one at a time: the Tanakh with the Mishnah and Pirkei Avot, the
-Book of Mormon, and the Hindu, Buddhist, Jain and Shinto scriptures. Each work's source and licence
-are on its page.
+Book of Mormon, and the Hindu and Buddhist scriptures. Each work's source and licence are on its page.
 
 This repository holds the built site only.
